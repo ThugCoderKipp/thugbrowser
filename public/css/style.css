@@ -561,3 +561,34 @@ margin-right: 8px;
 .navitem:hover {
 text-decoration: underline;
 }
+
+.menu{
+  text-align:end;
+  font-size: 17px;
+  background-color: #8fd7e5;
+  
+}
+
+
+
+.menu a{
+  background-color:#e5b710;
+  padding: 3px;
+  border-radius: 15px;
+}
+
+.menu a:link {
+    color: rgb(255, 255, 255);
+  }
+
+.menu a:visited {
+    color: rgb(255, 255, 255);
+  }
+
+.menu a:hover{
+    font-size: 18px;
+    background-color:crimson;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
